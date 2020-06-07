@@ -1,23 +1,23 @@
-## eslint 的规范
-> 这个是自定义的eslint用的规范
+## eslint 规范
+> 这个是自定义的eslint的规范的typescript版本
 ---
 ## 使用
 ```bash
-npm install --save-dev eslint-config-ro
+npm install --save-dev eslint-config-ro-ts
 ```
 ## 然后在你自己的eslint的配置文件上引入
 ```javascript
 "extends": [
-    "ro"
+    "ro-ts"
 ]
 ```
 ---
 ## 依赖
 ```javascript
 "dependencies": {
-    "babel-eslint": "^10.0.1",
-    "eslint": "^7.1.0",
-    "eslint-plugin-react": "^7.20.0"
+    "eslint": "^7.2.0",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0"
   }
 ```
 ---
