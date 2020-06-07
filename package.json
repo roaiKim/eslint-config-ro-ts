@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ro-ts",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "eslint eslintconfig ro-ts eslint-config typescript-eslint",
   "main": "index.js",
   "author": "ro",
