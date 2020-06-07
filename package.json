@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-ro-ts",
+  "version": "0.1.1",
+  "description": "eslint eslintconfig ro-ts eslint-config typescript-eslint",
+  "main": "index.js",
+  "author": "ro",
+  "license": "MIT",
+  "scripts": {
+    "test": "ro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roaiKim/eslint-config-ro-ts.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "ro",
+    "eslint-config",
+    "typescript-eslint"
+  ],
+  "dependencies": {
+    "eslint": "^7.2.0",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0"
+  }
+}
